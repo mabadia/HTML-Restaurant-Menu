@@ -96,3 +96,11 @@ th {
 .highlight {
   color: darkred;
 }
+footer {
+    width: 100%;
+    padding: 20px;
+    background-color: green;
+}
+
+footer p {
+    color: white;
