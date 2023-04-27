@@ -49,10 +49,6 @@ nav a {
     margin-right: 25px;
 }
 
-nav a:active {
-  background-color: darkred;
-}
-
 nav a:hover {
     color: darkred;
 }
@@ -89,4 +85,14 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+#holiday {
+  width: 100%;
+    padding: 25px;
+    background-color: mediumpurple;
+}
+
+.highlight {
+  color: darkred;
 }
